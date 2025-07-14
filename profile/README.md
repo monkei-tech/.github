@@ -29,15 +29,6 @@ Integrar pagamentos pode ser uma dor de cabeça. O **Monkei** nasce para resolve
 - 🛡️ **Proteção contra fraudes** com machine learning
 - 📱 **SDKs prontos** para múltiplas linguagens
 
-## 🛠️ Stack Tecnológico
-
-- **Backend**: Go
-- **Banco de dados**: PostgreSQL, Redis
-- **Infraestrutura**: Docker, Kubernetes
-- **Monitoramento**: Prometheus, Grafana
-- **Segurança**: JWT, OAuth 2.0, PCI DSS
-- **APIs**: RESTful, GraphQL, Webhooks
-
 ## 📚 Documentação
 
 - [📖 Guia de Integração](link-para-docs)
