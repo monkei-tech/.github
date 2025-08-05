@@ -1,7 +1,7 @@
 # 🐒 Monkei
 
 <div align="center">
-  <img src="./image/logo-para-redes-socias.png" alt="Monkei Logo" width="200"/>
+  <img src="./image/imagem.png" alt="Monkei Logo" width="200"/>
   
   **A plataforma de pagamentos que revoluciona a forma de receber!**
 </div>
@@ -21,7 +21,7 @@ Integrar pagamentos pode ser uma dor de cabeça. O **Monkei** nasce para resolve
 ## ⚡ Funcionalidades principais
 
 - 🔌 **API unificada** para múltiplas formas de pagamento
-- 💳 **Suporte completo**: PIX, cartões de crédito/débito e criptomoedas
+- 💳 **Suporte completo**: PIX e criptomoedas
 - 📊 **Dashboard em tempo real** para acompanhamento de transações
 - 📈 **Relatórios avançados** para análise de recebimentos
 - 🔒 **Segurança de ponta** com criptografia e conformidade PCI DSS
